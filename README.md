@@ -1,7 +1,7 @@
 # Формирование модели монетизации для игрового приложения
 [Презентация](https://drive.google.com/file/d/15v_XTWN62odIUJk-u_kU4YBGGvX8iU8-/view?usp=sharing)  
 [Дашборд](https://public.tableau.com/views/UserBehaviour/GameMonetization?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-[ipynb](https://github.com/lisaryap/Portfolio/blob/main/Game%20monetization/Game%20monetization%20-%20Elizaveta%20Ryapolova.ipynb)
+[ipynb](https://github.com/lisaryap/Game-monetization/blob/main/Game%20monetization.ipynb)
 
 ## Описание проекта
 
